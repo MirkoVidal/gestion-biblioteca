@@ -1,0 +1,38 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Harry Potter",
+        "autor": "J.K.Rowling",
+        "editorial": "Bloomsbury",
+        "anio_publicacion": "1997",
+        "genero": "Novela",
+        "cantidad_disponible": 3
+    },
+    {
+        "id_libro": 2,
+        "titulo": "MI PLANTA DE NARANJA LIMA",
+        "autor": "Jos\u00e9 Mauro de Vasconcelos",
+        "editorial": "El Ateneo",
+        "anio_publicacion": "1968",
+        "genero": "Ficci\u00f3n autobiogr\u00e1fica",
+        "cantidad_disponible": 5
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Los ojos del perro siberiano",
+        "autor": "Antonio Santa Ana\n",
+        "editorial": "Norma S.A.",
+        "anio_publicacion": "1998",
+        "genero": "Ficci\u00f3n",
+        "cantidad_disponible": 1
+    },
+    {
+        "id_libro": 4,
+        "titulo": "El fantasma de Canterville",
+        "autor": "Oscar Wilde\n",
+        "editorial": "The Court and Society Review",
+        "anio_publicacion": "1887",
+        "genero": "Ficci\u00f3n g\u00f3tica",
+        "cantidad_disponible": 4
+    }
+]

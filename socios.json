@@ -1,0 +1,11 @@
+[
+    {
+        "id_socio": 1,
+        "nombre": "Mirko",
+        "apellido": "Vidal",
+        "fecha_nacimiento": "25/02/2002",
+        "direccion": "mayor lopez jordan",
+        "correo_electronico": "mirkovidal2023@gmail.com",
+        "telefono": "3434472223"
+    }
+]
